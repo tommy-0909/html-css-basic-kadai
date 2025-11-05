@@ -3,12 +3,12 @@
   padding-top: 20px;
   padding-bottom: 20px;
   margin: 0 auto;
+  text-align: center;
   background-color: #dcc9f4;
 }
 
 .top-child{
   position: relative;
-  left: 20%;
   width: 20%;
   margin: 0;
   display: inline-block;
